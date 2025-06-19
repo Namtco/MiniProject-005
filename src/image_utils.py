@@ -1,0 +1,1 @@
+# image_utils.py - placeholder for src directory
